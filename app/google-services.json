@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887981962422",
+    "firebase_url": "https://wasap-41e58.firebaseio.com",
+    "project_id": "wasap-41e58",
+    "storage_bucket": "wasap-41e58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887981962422:android:11cbfef357257f019d6217",
+        "android_client_info": {
+          "package_name": "com.slier.wasap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887981962422-8vtqgk9ood8t7e3ags5122fjj715rce5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaA0ytK8SfeMo_yzHO6AZ95nUO82QEsuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887981962422-8vtqgk9ood8t7e3ags5122fjj715rce5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
